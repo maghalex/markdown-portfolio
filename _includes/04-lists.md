@@ -1,3 +1,3 @@
-[] this
-[] is
-[] terrible
+- this
+- is
+- terrible
